@@ -92,19 +92,11 @@ Detected actual frauds: 130 out of 492 total frauds in test data
 - The dataset is large and imbalanced — that's why **SMOTE** was applied **only to the training set**.
 - The `.gitignore` file ensures that `creditcard.csv` is not pushed to GitHub to avoid size and licensing issues.
 
-## 📌 Possible Improvements
-
-- Try advanced models: Random Forest, XGBoost, or Neural Networks
-- Build a real-time detection pipeline using Streamlit or Flask
-- Add cross-validation, hyperparameter tuning, or feature selection
-
 ## 📄 License
 
-This project is for educational purposes. The dataset used is provided by [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud), and its usage is subject to their terms.
+The dataset used is provided by [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud), and its usage is subject to their terms.
 
 ## 👨‍💻 Author
 
 **Srinivas Kankala**  
 [GitHub Profile](https://github.com/srinivasgithub123)
-
-> ⭐ If you found this helpful, feel free to star the repository!
